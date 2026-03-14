@@ -1,21 +1,18 @@
 # LeetCode Resources
 
-This repository contains resources and solutions for LeetCode problems.
+This repository contains resources and solutions for various LeetCode problems. It aims to provide a comprehensive guide for coding interviews and practice.
 
 ## Features
-- Solutions to various LeetCode problems.
-- Helpful links and resources for studying algorithms and data structures.
+- Solutions to LeetCode problems
+- Explanation of algorithms used
+- Sample test cases for validation
 
 ## Technologies
 - Python
-- Java
 
 ## Usage
-1. Browse through the directories for problem solutions.
-2. Use the provided resources to enhance your understanding.
+Clone this repository and navigate to the folder containing the solutions. Run the scripts using Python.
 
 ## Future Plans
-- Add more solutions and explanations for complex problems.
-
-## Contribution
-Contributions are welcome! Please submit your solutions or resources via pull requests.
+- Add more problems and solutions
+- Include a section for tips and tricks for coding interviews.
